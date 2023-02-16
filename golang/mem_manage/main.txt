@@ -1,0 +1,11 @@
+/*
+new() => mem is allocated but is not initialised
+you will get a memmory address
+will get zeroed storage
+
+make()=>mem is allocated and is  initialised
+you will get a memmory address
+will get non-zeroed storage
+
+garbage collection is automatic
+*/
